@@ -2,6 +2,19 @@
 # Quantum Computing Course 2025
 Organized by [IIT Roorkee](https://www.iitr.ac.in/) & [Centre for Development of Advanced Computing](https://www.cdac.in/) With the support of Ministry of Electronics and Information Technology (MeitY), Government of India.
 
+## Criteria for Completion and Participation Certificate
+Note:
+Incorrect or invalid questions have been removed and were not considered during the evaluation.
+
+### Criteria for Completion Certificate:
+- A score of more than 40% in at least 3 out of the 4 quizzes.
+- The final score is calculated as the average of the best 3 quiz scores.
+
+### Criteria for Participation Certificate:
+- Awarded to participants who attempted the quizzes but did not manage to pass at least 3 quizzes.
+
+### Certificates will be sent to registered email id by 14th-15th June 2025
+  
 ## Feedback Form:
 ####  To help us enhance future courses, we would be grateful if you could take a few moments to fill out our [FEEDBACK](https://forms.gle/4Lw5Qujsjdf9GiTM6) form. Your contributions will be vital as we strive to improve.
 
